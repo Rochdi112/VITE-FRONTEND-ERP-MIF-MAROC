@@ -209,5 +209,5 @@ Pour toute question ou problème :
 
 ---
 
-**Développé avec ❤️ pour MIF Maroc**
+**Rochdi Sabir**
   
